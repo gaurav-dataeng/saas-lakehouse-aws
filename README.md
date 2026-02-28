@@ -19,7 +19,7 @@ The architecture supports:
 
 ## 🏗 Architecture Diagram
 
-![Architecture](architecture/lakehouse-architecture.drawio.png)
+![Architecture](architecture/architecturelakehouse-architecture.drawio.png)
 ---
 
 ## 🛠 Tech Stack
