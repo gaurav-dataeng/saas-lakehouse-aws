@@ -120,6 +120,6 @@ GROUP BY plan;
 
 ## 👨‍💻 Author
 
-- Gaurav Chavan
-- Senior Data Engineer
-- datacode.gaurav@gmail.com
+**Gaurav**  
+Data Engineer | AWS Lakehouse | Iceberg  
+📫 datacode.gaurav@gmail.com
