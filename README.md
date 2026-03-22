@@ -123,4 +123,5 @@ GROUP BY plan;
 **Gaurav**  
 Data Engineer | AWS Lakehouse | Iceberg  
 📫 datacode.gaurav@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/gaurav-dataengineer/
